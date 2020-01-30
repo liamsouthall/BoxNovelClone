@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.head {
+  background: linear-gradient(to right, #eb3349 40%, #f45c43);
+  max-height: 162px;
+}
+.container {
+  max-width: 1170px;
+  height: 162px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.main-nav-wrap {
+  width: 1140px;
+  max-height: 162px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px 0;
+}
+.main-menu {
+  width: 60%;
+  height: 92px;
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+  vertical-align: middle;
+}
